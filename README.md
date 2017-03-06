@@ -1,4 +1,4 @@
-# PROTECO_Prebe_C
+# Proyecto de C para prebercarios del Proteco
 
 Proyecto final del curso de lenguaje C para prebecarios del PROTECO de la FI de la UNAM.
 
